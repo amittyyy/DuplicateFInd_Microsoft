@@ -1,0 +1,26 @@
+Given a comma-separated file containing a column header in its first line, write a method that will output all lines in the file that contain duplicate values in a specified column.
+This should be written in C# as a command line application (no gui), support for quoting and other advanced features of CSV format not required.
+Implementation details and program interface is up to you to decide.
+ 
+Examples:
+TestFile.csv
+column1,column2
+1,a
+1,c
+2,d
+3,d
+1,b
+4,e
+4,d
+ 
+Program run with parameters "TestFile.csv" and "column1" should find '1' and '4' occurring more than once in column1 and produce the output:
+1,a
+1,c
+1,b
+4,e
+4,d
+ 
+Program run with parameters "TestFile.csv" and "column2" finds "d" as a duplicate entry:
+2,d
+3,d
+4,d

@@ -1,0 +1,7 @@
+E:\DotNetApps\MicroSoft_Homework\DuplicateColumns\DuplicateColumns\obj\Debug\DuplicateColumns.csproj.CoreCompileInputs.cache
+E:\DotNetApps\MicroSoft_Homework\DuplicateColumns\DuplicateColumns\bin\Debug\DuplicateColumns.exe.config
+E:\DotNetApps\MicroSoft_Homework\DuplicateColumns\DuplicateColumns\bin\Debug\DuplicateColumns.exe
+E:\DotNetApps\MicroSoft_Homework\DuplicateColumns\DuplicateColumns\bin\Debug\DuplicateColumns.pdb
+E:\DotNetApps\MicroSoft_Homework\DuplicateColumns\DuplicateColumns\obj\Debug\DuplicateColumns.exe
+E:\DotNetApps\MicroSoft_Homework\DuplicateColumns\DuplicateColumns\obj\Debug\DuplicateColumns.pdb
+E:\DotNetApps\MicroSoft_Homework\DuplicateColumns\DuplicateColumns\obj\Debug\DuplicateColumns.csprojAssemblyReference.cache
